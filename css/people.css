@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.containerx {
+    display: flex;
+    margin: 20px;
+}
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+}
+
+.right-column {
+    flex: 3;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.person-info {
+    text-align: center;
+}
+
+.person-photo {
+    max-width: 70%;
+    border-radius: 50%;
+}
+
+.person-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.person-title {
+    font-style: italic;
+}
+
+.research-info {
+    margin-top: 20px;
+}
+
+.contact-info{
+    margin-top: 20px;
+}
+
+.intro {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.projects, .publications, .patents {
+    margin-top: 20px;
+}
+
+.section-header {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.list-item {
+    margin-bottom: 10px;
+}
+
+.list-content {
+    margin-left: 30px;
+}
