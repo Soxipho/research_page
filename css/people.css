@@ -52,10 +52,6 @@ body {
     line-height: 1.5;
 }
 
-.projects, .publications, .patents {
-    margin-top: 20px;
-}
-
 .section-header {
     font-size: 18px;
     font-weight: bold;
@@ -67,4 +63,29 @@ body {
 
 .list-content {
     margin-left: 30px;
+}
+
+
+.part {
+    margin-top: 20px;
+}
+
+.part-content{
+    display: none;
+}
+
+.part-boundray{
+    border:1px solid #CCC;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+
+.title-header{
+    font-size: 18px;
+    font-weight: bold;
+    display: inline;
+}
+
+button{
+    float: right;
 }
