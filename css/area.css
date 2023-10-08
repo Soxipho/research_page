@@ -19,12 +19,12 @@ h1 {
 .containerarea {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0 20px;
 }
 
 .research-direction {
     background-color: #fff;
-    margin: 20px 0;
+    margin:  0;
     padding: 20px;
     border-radius: 5px;
 }
@@ -51,4 +51,11 @@ h1 {
     color: #666;
     font-size: 18px;
     margin-left: 5%;
+    text-align: left;
 }
+
+/*-- content bottom--*/
+.content-bottom{
+    background:#f2f2f2;
+    padding:40px 0;
+    }
