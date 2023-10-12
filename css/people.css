@@ -90,3 +90,12 @@ body {
 button{
     float: right;
 }
+
+
+.student-box {
+    width: 220px;
+    height: 150px;
+    border: 2px solid rgb(174, 167, 167);
+    padding: 10px;
+    margin: 10px;
+  }
